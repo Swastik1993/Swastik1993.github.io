@@ -6,7 +6,13 @@ categories: interview
 ---
 So I recently got a job from `Bridge i2i` through the campus placement and thought of sharing my interview experience so that others may find it useful. 
 
-As usual there is the online test as the first step of the selection process. I don't remember the exact order but the online test had 5 sections; quantitative ability, logical reasoning, statistics, programming theory and pseudo code output. There were 90 questions and 12mins to answer them (No negative marking). The questions were not exactly tough but it was difficult to answer all questions as the time was short. I left 5 questions un-attempted. 
+As usual there is the online test as the first step of the selection process. I don't remember the exact order but the online test had 5 sections: 
+quantitative ability, 
+logical reasoning, 
+statistics, 
+programming theory and 
+pseudo code output. 
+There were 90 questions and 120 mins to answer them (No negative marking). The questions were not exactly tough but it was difficult to answer all questions as the time was short. I left 5 questions un-attempted. 
 
 
 
