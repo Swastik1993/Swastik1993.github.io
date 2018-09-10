@@ -20,7 +20,9 @@ As usual there is the online test as the first step of the selection process. I 
 
 There were 90 questions and 120 mins to answer them (No negative marking). The questions were not exactly tough but it was difficult to answer all questions as the time was short. I left 5 questions un-attempted. 
 
-I wasn't confident of the fact that I would qualify for the second round since I didn't know how others had done, but I had some hopes. Finally the list of shortlisted candidates were declared and I was one of them.
+I wasn't confident of the fact that I would qualify for the second round since I didn't know how others had done, but I had some hopes. Finally the list of shortlisted candidates were declared and I was one of them.  
+
+There were about 60 candidates shortlisted from our college and 108 in total(including people from NIT Rourkela) for the GD round.  
 
 ### Round 2 - Group Discussion 
 
@@ -37,10 +39,17 @@ Male | 49% | 51%
 Female | 51% | 49%
 Elderly | 44% | 40%
 New entrants | 34% | 42%
+Urban families | 42% | 39%
+Suburban families | 34% | 40%
 
-  
+There were about 15 to 20 such rows and I don't remember all the sections and percentage values.  
+
 Based on the given data the questions were:-  
 * Who stands at a better position to win the election?
 * What are the key differences between the previos election and this election?
 * What can Reid do to be confident or make sure that he has the upper hand in the election?  
+
+Out of the 108 candidates only 30 or 40 were selected for the final round.  
+
+### Round 3 - Personal Interview + HR  
 
