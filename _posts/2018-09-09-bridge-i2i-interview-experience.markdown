@@ -24,7 +24,7 @@ I wasn't confident of the fact that I would qualify for the second round since I
 
 ### Round 2 - Group Discussion 
 
-Before starting the group discussion round a small presentation was given by the company representatives, which included . The group discussion round was pretty interesting we were given a case study. We were each given a sheet of paper in which the case study was defined. I will give a brief idea of how the problem was defined as I don't remember the exact description by heart.  
+Before starting the group discussion round a small presentation was given by the company representatives. The group discussion round was pretty interesting we were given a case study. We were each given a sheet of paper in which the case study was defined. I will give a brief idea of how the problem was defined as I don't remember the exact description by heart.  
 
 In the year 1992 Reid had won the election by a 10% margin. He had some characteristic traits that were given like... personality, outlook, focus, democrat, liberal, etc and the classes of people which voted for him in 1992 such as... elderly, academic groups, urban families, NGOs, etc.  
 Now in 1998 the competitor is Ensign a new guy, he also had some personality traits such as... radical, republic, divorced etc. and the sections of people who supported him like... young, suburban families, new entrants, etc.  
@@ -59,5 +59,7 @@ So I entered the room and went upto the table and handed over my resume to the d
 A: I am Swastik Biswas, my parents own a garment store. I completed my 10th and 12th standard from Salt Lake School, Kolkata. Thereafter I went to Acharya Institute of Technology, Bangalore to study Computer Science and Engineering for my undergraduate degree. While studying I had also served as an intern at ITC Infotech, Bangalore. After completing my graduation I took the GATE exam and here I am at Jadavpur University pursuing my Masters degree in Computer Science and Engineering working on Volumetric Medical Image Segmentation as my masters thesis.  
 
 * Q: Tell me about your current research project.  
-A: Well it's basically a novel FCM clustering approach to segment regions within MRI and CT scan images.  
+A: Well it's basically a novel FCM clustering approach to segment regions of interest within MRI and CT scan images. I am using the dataset from Brainweb to segment the grey-matter, white-matter, cerebrospinal fluid and bone structure. The data is in rawb format and it has 181 such images packed within it, which are first extracted and then processed serially. I have to run the algorithm for 10 such datasets.  
 
+* Q: How is the FCM working?  
+A: It works very similar to the k-means clustering approach.  
