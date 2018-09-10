@@ -20,13 +20,11 @@ As usual there is the online test as the first step of the selection process. I 
 
 There were 90 questions and 120 mins to answer them (No negative marking). The questions were not exactly tough but it was difficult to answer all questions as the time was short. I left 5 questions un-attempted. 
 
-I wasn't confident of the fact that I would qualify for the second round since I didn't know how others had done, but I had some hopes. Finally the list of shortlisted candidates were declared and I was one of them.  
-
-There were about 60 candidates shortlisted from our college and 108 in total(including people from NIT Rourkela) for the GD round.  
+I wasn't confident of the fact that I would qualify for the second round since I didn't know how others had done, but I had some hopes. There were about 60 candidates shortlisted from our college and 108 in total (including people from NIT Rourkela and Calcutta University) for the GD round.  
 
 ### Round 2 - Group Discussion 
 
-The Group Discussion round was pretty interesting we were given a case study. We were each given a sheet of paper in which the case study was defined. I will give a brief idea of how the problem was defined as I don't remember the exact description by heart.  
+Before starting the group discussion round a small presentation was given by the company representatives, which included . The group discussion round was pretty interesting we were given a case study. We were each given a sheet of paper in which the case study was defined. I will give a brief idea of how the problem was defined as I don't remember the exact description by heart.  
 
 In the year 1992 Reid had won the election by a 10% margin. He had some characteristic traits that were given like... personality, outlook, focus, democrat, liberal, etc and the classes of people which voted for him in 1992 such as... elderly, academic groups, urban families, NGOs, etc.  
 Now in 1998 the competitor is Ensign a new guy, he also had some personality traits such as... radical, republic, divorced etc. and the sections of people who supported him like... young, suburban families, new entrants, etc.  
@@ -51,5 +49,7 @@ Based on the given data the questions were:-
 
 Out of the 108 candidates only 30 or 40 were selected for the final round.  
 
-### Round 3 - Personal Interview + HR  
+### Round 3 - Technical Interview + HR  
+
+This was one of the best technical interview experiences I ever had in my life. The interviewers were so friendly and encouraging that it didn't felt like I was giving an interview. So I was interviewed by one of the co-founders of the company, who was also the CTO. 
 
