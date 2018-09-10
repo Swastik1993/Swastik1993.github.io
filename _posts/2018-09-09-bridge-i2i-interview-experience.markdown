@@ -13,7 +13,7 @@ As usual there is the online test as the first step of the selection process. I 
 * logical reasoning, 
 * statistics, 
 * programming theory and 
-* pseudo code output. 
+* pseudo code output.  
 There were 90 questions and 120 mins to answer them (No negative marking). The questions were not exactly tough but it was difficult to answer all questions as the time was short. I left 5 questions un-attempted. 
 
 I wasn't confident of the fact that I would qualify for the second round since I didn't know how others had done, but I had some hopes. 
