@@ -55,9 +55,9 @@ I was interviewed by one of the co-founders of the company, who was also the CTO
 
 So I entered the room and went upto the table and handed over my resume to the developer and greeted them with a handshake. Then after I sat down the interview started - 
 
-* Q: Let's start with your introduction. Tell me about yourself.
+* Q: Let's start with your introduction. Tell me about yourself.  
 A: I am Swastik Biswas, my parents own a garment store. I completed my 10th and 12th standard from Salt Lake School, Kolkata. Thereafter I went to Acharya Institute of Technology, Bangalore to study Computer Science and Engineering for my undergraduate degree. While studying I had also served as an intern at ITC Infotech, Bangalore. After completing my graduation I took the GATE exam and here I am at Jadavpur University pursuing my Masters degree in Computer Science and Engineering working on Volumetric Medical Image Segmentation as my masters thesis.  
 
-* Q: Tell me about your current research project.
+* Q: Tell me about your current research project.  
 A: Well it's basically a novel FCM clustering approach to segment regions within MRI and CT scan images.  
 
