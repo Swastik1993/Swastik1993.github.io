@@ -28,6 +28,19 @@ The Group Discussion round was pretty interesting we were given a case study. We
 
 In the year 1992 Reid had won the election by a 10% margin. He had some characteristic traits that were given like... personality, outlook, focus, democrat, liberal, etc and the classes of people which voted for him in 1992 such as... elderly, academic groups, urban families, NGOs, etc.  
 Now in 1998 the competitor is Ensign a new guy, he also had some personality traits such as... radical, republic, divorced etc. and the sections of people who supported him like... young, suburban families, new entrants, etc.  
-However this time(1998) Reid less confident about his victory so he has hired you, as an analyst to understand the scenario and draw conclusions about the election results. draw korte hobe je kar jetar chance beshi, kano ar ki korle Reid er chance barte pare.
-1999 ar 2000 er population details gulo sob deya chilo in terms of % ar population growth hoyechilo 2.5m to 3.4m baki sob class of people er difference in % deyachilo
-Baki exact value gulo sob mone nei... kintu prochur pray 15 tar moto % values of each year deya chilo
+However this time(1998) Reid less confident about his victory so he has hired you, as an analyst to understand the scenario and draw conclusions about the election results.  
+The population details of 1992 and 1998 were given and was pretty detailed. Each sections of the population was given in % values to indicate the population growth within the time period. For example the data was given as follows:-  
+
+class of people | population in 1992  (2.5 million) | population in 1998  (3.4 million)
+--- | --- | ---
+Male | 49% | 51%
+Female | 51% | 49%
+Elderly | 44% | 40%
+New entrants | 34% | 42%
+
+  
+Based on the given data the questions were:-  
+* Who stands at a better position to win the election?
+* What are the key differences between the previos election and this election?
+* What can Reid do to be confident or make sure that he has the upper hand in the election?  
+
