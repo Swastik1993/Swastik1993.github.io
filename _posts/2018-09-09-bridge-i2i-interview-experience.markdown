@@ -90,5 +90,5 @@ A: It's not like that I know only images. I am just passionate about Computer Vi
 A: (During the presentations the interviewer had mentioned that they deal with gigabytes and terabytes of data) I would really like to know that with the amount of data that you have what do you do to handle that data. I mean like you have a specific data center or do you only use cloud services and if so what are the compnents. - This was my question.  
 The interviewer told me that they have a small data center and they used cloud services too specifically AWS to solve the problems. It is mainly dependent on the problem statement what kind of data preprocessing may be required and how it should be stored like in files or a relational model, etc. They also use MongoDB and Cassandra among other products for their data.  
 
-
+After this they told me that by the end of day they will announce the list of selected candidates. I came back home and at night our placement coordinator called to tell me that I was among the list 11 of selected students.  
 
