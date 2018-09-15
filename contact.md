@@ -89,8 +89,8 @@ tagline: Any appreciations or criticisms are welcome. Send me a message and I wi
 <div class="form-style-2">
   <div class="form-style-2-heading">Enter your details here...</div>
   <form action="https://formspree.io/mail@swastikbiswas.me" method="post">
-    <label for="field2"><span>Email <span class="required">*</span></span><input type="text" class="input-field" name="field2" value="" /></label>
-    <label for="field5"><span>Message <span class="required">*</span></span><textarea name="field5" class="textarea-field"></textarea></label>
+    <label for="Email"><span>Email <span class="required">*</span></span><input type="text" class="input-field" name="field2" value="" /></label>
+    <label for="Message"><span>Message <span class="required">*</span></span><textarea name="field5" class="textarea-field"></textarea></label>
     <label><span>&nbsp;</span><input type="submit" value="Submit" /></label>
   </form>
 </div>
